@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Profiler/RCTProfile.m \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Views/RCTComponentData.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Layout/Layout.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/zhangshibiao/xcode_workplace/myjoking/node_modules/react-native/React/Executors/RCTJSCExecutor.h
